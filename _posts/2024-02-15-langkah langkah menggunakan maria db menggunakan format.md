@@ -59,6 +59,9 @@
 
    Pastikan untuk menyesuaikan nama basis data, tabel, dan nilai sesuai kebutuhan Anda. Anda dapat menyalin dan menjalankan setiap perintah SQL di terminal MariaDB Anda.
 
+   
+
+   ![image](https://github.com/smk4hebat/ahrull/assets/156273663/8e712b2f-dbb4-4c7e-8103-57a66925e80a)
 
 
 
